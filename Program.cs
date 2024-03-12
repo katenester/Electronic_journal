@@ -16,6 +16,7 @@ namespace DBkp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            // Запуск приложения.
             Application.Run(new Form1()); 
         }
     }
