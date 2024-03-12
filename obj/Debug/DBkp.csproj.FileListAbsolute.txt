@@ -1,0 +1,82 @@
+C:\Users\user\source\repos\DBkp\bin\Debug\DBkp.exe.config
+C:\Users\user\source\repos\DBkp\bin\Debug\DBkp.exe
+C:\Users\user\source\repos\DBkp\bin\Debug\DBkp.pdb
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form1.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Properties.Resources.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.exe
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.pdb
+C:\Users\user\source\repos\DBkp\obj\Debug\LR1.AboutBox1.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form2.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form3.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form4.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form5.resources
+C:\Users\user\source\repos\DBkp\obj\Debug\DBkp.Form6.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.exe.config
+F:\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.exe
+F:\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.pdb
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.AssemblyReference.cache
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.SuggestedBindingRedirects.cache
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\LR1.AboutBox1.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form1.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form2.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form3.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form4.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form5.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form6.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Properties.Resources.resources
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.GenerateResource.cache
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.CoreCompileInputs.cache
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.exe
+F:\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.pdb
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.exe
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.exe.config
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.AssemblyReference.cache
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\LR1.AboutBox1.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form1.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form2.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form3.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form4.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form5.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Form6.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.Properties.Resources.resources
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.GenerateResource.cache
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.csproj.CoreCompileInputs.cache
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.exe
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\obj\Debug\DBkp.pdb
+C:\Users\Michail\Desktop\Studing\program\7 kurs\kursa4BD\DBkp\bin\Debug\DBkp.pdb
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\bin\Debug\DBkp.exe.config
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\bin\Debug\DBkp.exe
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\bin\Debug\DBkp.pdb
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.csproj.AssemblyReference.cache
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\LR1.AboutBox1.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form1.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form2.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form3.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form4.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form5.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Form6.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.Properties.Resources.resources
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.csproj.GenerateResource.cache
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.csproj.CoreCompileInputs.cache
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.exe
+C:\Users\neste\Documents\РЭУ\3 курс\ППА\DBkp\obj\Debug\DBkp.pdb
+C:\KR2023\DBkp\bin\Debug\DBkp.exe.config
+C:\KR2023\DBkp\bin\Debug\DBkp.exe
+C:\KR2023\DBkp\bin\Debug\DBkp.pdb
+C:\KR2023\DBkp\obj\Debug\DBkp.csproj.AssemblyReference.cache
+C:\KR2023\DBkp\obj\Debug\LR1.AboutBox1.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form1.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form2.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form3.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form4.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form5.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Form6.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.Properties.Resources.resources
+C:\KR2023\DBkp\obj\Debug\DBkp.csproj.GenerateResource.cache
+C:\KR2023\DBkp\obj\Debug\DBkp.csproj.CoreCompileInputs.cache
+C:\KR2023\DBkp\obj\Debug\DBkp.exe
+C:\KR2023\DBkp\obj\Debug\DBkp.pdb
