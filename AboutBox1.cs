@@ -106,5 +106,25 @@ namespace LR1
         {
             Close();
         }
+
+        private void logoPictureBox_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelCopyright_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelCompanyName_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelProductName_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
